@@ -3,7 +3,7 @@
 """Line 1 doc string: shebang line. This above line is optional"""
 
 import abc
-"""Line 4: The next line after shebang is the import statements. These are always on the top"""
+"""Line 4: The next line after shebang are the import statements. These are always on the top"""
 
 
 class CamelCaseConvention:
